@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.keys {
+    height: 100vh;
+    display: flex;
+    gap: 1.5rem;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.key {
+    border: solid 0.2rem black;
+
+    text-align: center;
+    text-transform: uppercase;
+}
